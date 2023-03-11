@@ -1,6 +1,9 @@
 # COVID-19 Data Visualization Application
 This Streamlit application allows users to select a state, type of information, and date range to generate a line or bar chart of COVID-19 data for the selected state in Brazil. Users can also download the data in CSV or Excel format.
 
+# Demo
+[streamlit.app](https://wellrccity-covid19streamlit-load-tliqwl.streamlit.app/)
+
 # Libraries Used
 - pandas
 - plotly.express
